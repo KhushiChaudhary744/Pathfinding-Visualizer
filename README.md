@@ -6,6 +6,7 @@ A visualizer for the pathfinding algorithms used in AI and game development, thi
 
 
 A* Algorithm - 
+
 https://user-images.githubusercontent.com/78816968/141448647-0d51d560-9cea-4d61-9e3a-cc6c46072277.mp4
 
 Dijkstra Algorithm -
